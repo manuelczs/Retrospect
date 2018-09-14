@@ -7,7 +7,6 @@
 }
 
 .container {
-    margin: 2px 40px;
     text-align: center;
 }
 
@@ -54,7 +53,36 @@
     background-color: #51BAA4;
 }
 
-.div-footer {
-    width: 400px;
+.second-section {
+    background-color: #E0E0E0;
 }
 
+.third-section {
+    background-color: #FFFF;
+}
+
+.fourth-section {
+    text-align: center;
+    font-size: 30px;
+}
+
+.inner {
+    padding: 100px;
+}
+
+.fifth-section {
+    background-color: black;
+}
+
+.form {
+    padding: 1px auto;
+    border: solid white 2px;
+}
+
+.name-form {
+    padding: 10px;
+}
+
+.email-form {
+    padding: 10px;
+}
